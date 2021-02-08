@@ -194,3 +194,137 @@ padding-top: 50px;
             .p p{
                 color: gray;
             }
+@media (max-width:780px){
+    header{
+        
+    }
+    .logo{
+        transform: translateY(30px);
+    }
+    .se{
+        
+        transform: translateX(55px);
+    }
+    .se ul{
+        width: 1100px;
+     font-size: 30px;
+    }
+    .se li{
+
+    }
+    .sns1-1 img{
+        width: 80px;
+        height: 80px;
+    }
+    .sns1-2 img{
+        width: 80px;
+        height: 80px;
+    }
+    .sns-box img{
+        width: 50px;
+        height: 200px;
+    }
+    .main{
+
+    }
+    .main-img{
+     width: 1550px;
+     height: 600px;
+    }
+    .main-me h2{
+     font-size: 90px;
+    }
+    .main-me span{
+font-size: 60px;
+    }
+    .main2{
+     transform: translateX(50px);
+    }
+    .main3-1{
+    
+    }
+    .main3-1 a{
+    font-size: 50px;
+    }
+    .main3-1 span{
+    font-size: 50px;
+    }
+    .title2{
+
+    }
+    .title2 img{
+    width: 100px;
+    height: 100px;
+    }
+    .title2 h3{
+    font-size: 80px;
+    transform: translateY(-80px);
+    }
+    .img2{
+
+    }
+    .img2 img{
+    width: 1200px;
+    height: 800px;
+    padding-left: 100px;
+    }
+    .me2 p{
+     font-size: 40px;
+     width: 1000px;
+    transform: translateX(-100px);
+    }
+    .bot{
+    width: 300px;
+    height: 80px;
+    font-size: 50px;
+    margin-left: 400px;
+    padding-top: 20px;
+    }
+    .bot a{
+       
+    }
+    .logo-1{
+        transform: translateY(30px);
+    }
+    .se-1{
+        
+        transform: translateX(-350px);
+    }
+    .se-1 ul{
+        width: 1200px;
+     font-size: 30px;
+    }
+    .p{
+        transform: translateX(-50px);
+        width: 580px;
+        font-size: 20px;
+    }
+    .body{
+        transform: translateX(50px);
+    }
+}
+
+
+
+
+
+@media(max-width:420px){
+    .main3-1{
+    width: 800px;
+}
+    .main3-1 a{
+    font-size: 60px;
+    }
+    .main3-1 span{
+    font-size: 60px;
+    }
+    .title2 h3{
+        
+    }
+    .title2{
+        width: 800px;
+    }
+    .sns{
+        display: none;
+    }
+}
